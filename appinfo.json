@@ -1,0 +1,9 @@
+{
+	"id": "de.tixus.webos.gps",
+	"version": "1.0.0",
+	"vendor": "tsp",
+	"type": "web",
+	"main": "index.html",
+	"title": "tspgps",
+	"icon": "icon.png"
+}
